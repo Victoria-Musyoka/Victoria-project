@@ -1,0 +1,138 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: black;
+}
+header{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: orangered;
+    
+}
+
+.links ul{
+    display: flex;
+    justify-content: center;
+}
+.links ul li{
+    border: 1px solid red;
+    margin: 1rem;
+    padding: 1rem;
+    list-style: none;
+    color: white;
+    font-size: 1.5rem;
+}
+.links ul li:hover{
+    background-color: brown;
+}
+
+.Profile img{
+    width: 10%;
+    border-radius:50%;
+    height: 5%;
+    
+}
+
+.Profile {
+    display: flex;
+    align-items: center;
+}
+ .Profile h3{
+    color: white;
+    margin-left: 1rem;
+    font-size: 40px; 
+    font-weight: 900; 
+ }
+/* homepage begins here  */
+.Home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+    margin-bottom: 5rem;
+    width:50%;
+    margin-left: 25%;
+    
+    
+}
+.Home h1 {
+    color: white;
+    margin:2rem;
+    font-size:3rem;
+
+}
+.Home p{
+    color:white;
+    margin:2rem;
+    font-size:2rem;
+
+}
+.Home button{
+    padding:1.5rem 2rem
+
+}
+.About {
+    margin-bottom: 5rem;
+}
+
+
+.About h1 {
+    color:white;
+    font-size:2rem;
+}
+
+.About-me{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1rem;
+    font-size:1.5rem;
+
+
+}
+
+.img img {
+    width: 30%%;
+}
+.paragraph p{
+    color:white;
+
+}
+.Contact-me {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1rem;
+    
+}
+
+.form{
+    
+    width: 50%;
+}
+
+.form> input {
+    width: 100%;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+.form> textarea {
+    width: 100%;
+    border-radius: 10px;
+}
+.form> button {
+    padding: 1rem 2rem ;
+    margin: 1rem;
+    margin-left: 400px;
+}
+
+.Social i {
+    color: white;
+    margin: 1rem;
+}
