@@ -14,7 +14,7 @@ This project is about my portfolio.Its a description about myself,my career as a
 -Unzip the downloaded files in a folder of choice.
 -Open the index file from the zipped file with any browser.
 ## Live Link
--[Click this link to view the live application]  (https://kipletingedwin.github.io/A-personal-website/)
+-[Click this link to view the live application]  (https://victoria-musyoka.github.io/Victoria-project/)
 ## LICENSE
 MIT License
 Copyright (c) [2022] [VICTORIA MUSYOKA]
