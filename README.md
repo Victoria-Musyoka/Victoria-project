@@ -10,7 +10,7 @@ This project is about my portfolio.Its a description about myself,my career as a
 -CSS - which was used to style the User Interface.
 -JAVASCRIPT - validate the homepage.
 ## Installation Process
--Clone to this repo : git clone https://kipletinged.github.io/A-personal-website/
+-Clone to this repo : git clone https://github.com/Victoria-Musyoka/Victoria-project
 -Unzip the downloaded files in a folder of choice.
 -Open the index file from the zipped file with any browser.
 ## Live Link
